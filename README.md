@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/girlygado/faq-accordion](https://github.com/girlygado/faq-accordion)
+- Live Site URL: [https://jolly-bardeen-3b1d58.netlify.app/](https://jolly-bardeen-3b1d58.netlify.app/)
 
 ## My process
 
